@@ -25,4 +25,4 @@ docker stop $(docker ps -q --filter ancestor=myapp)
 ```
 
 # License
-
+MIT-2.0
